@@ -1,0 +1,35 @@
+*.class #所有.class 文件
+*.log #所有日志文件
+*.lock
+
+# Package Files #
+*.jar
+*.war
+target/ 
+
+# IDEA 配置 #
+.idea/
+*.iml
+
+*velocity.log*
+
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+
+### IntelliJ IDEA ###
+*.iml
+*.ipr
+*.iws
+.idea
+.classpath
+.project
+.settings/
+bin/
+
+*.log
+tmp/
+
+#rebel
+*rebel.xml*
